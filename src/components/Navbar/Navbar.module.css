@@ -1,0 +1,24 @@
+
+.nav {
+	background-color: rgb(116, 112, 112);
+	grid-area: nav ;
+	padding: 20px;
+  }
+  
+  .item {
+	text-decoration: none;
+	color: #fff;
+	list-style: none;
+	margin-bottom: 10px;
+  }
+  
+  
+  .link {
+	color: #fff;
+	text-decoration: none;
+  }
+  
+  .activeLink {
+	color: rgb(168, 224, 11);
+  }
+  
